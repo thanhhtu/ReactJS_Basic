@@ -1,10 +1,10 @@
-import YtbList from "./components/youtube/YtbList";
+import Toggle from "./components/toggle/Toggle";
 
 //parent component
 export default function App() {
     return (
         <div>
-            <YtbList></YtbList>
+            <Toggle></Toggle>
         </div>
     )
 }
