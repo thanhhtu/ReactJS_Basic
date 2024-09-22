@@ -1,5 +1,5 @@
 import React from "react";
-import "../../App.css"
+import "./YtbStyle.css"
 
 /*
 inline style: 2 cặp ngoặc nhọn: 
